@@ -13,7 +13,7 @@
 
 ## Veri Kaynağı ve Altyapı
 
-Bu proje sunucusuz (serverless) bir mimari üzerinde çalışmaktadır. Backend tarafında, **Aralık 2025 itibariyle** Türk Dil Kurumu (TDK) Kişi Adları Sözlüğü'nden çekilen **tüm erkek ve kız isimleri** işlenerek veritabanına dahil edilmiştir.
+Bu proje sunucusuz (serverless) bir mimari üzerinde çalışmaktadır. Backend tarafında, **Aralık 2025 itibariyle** Türk Dil Kurumu (TDK) Kişi Adları Sözlüğü'nden çekilen **20.000** erkek ve kız ismi işlenerek veritabanına dahil edilmiştir.
 
 ---
-Made by [Muhammed Celil Aslan](https://github.com/mcelilaslan)
+Made with ❤️ by [Muhammed Celil Aslan](https://github.com/mcelilaslan)
